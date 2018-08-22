@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1534921254 source:c:\users\ricar\downloads\c\hub\my_stack\functions.c
+	<main.h>
+
+1534797869 c:\users\ricar\downloads\c\hub\my_stack\\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1534922253 source:c:\users\ricar\downloads\c\hub\my_stack\main.c
+	<main.h>
+
