@@ -1,7 +1,18 @@
-# C-Stack
-<strong> Data structure written in C </strong>
+# Old Stack
 
-A simple stack that takes input from the user and stores it into the stack. 
+
+```bash
+# compile
+make
+
+# clean up generated files
+make clean
+```
+
+
+**Data structure written in C**
+
+A simple stack that takes input from the user and stores it into the stack.
 
 
 - input type: integer value, and string text
@@ -10,6 +21,5 @@ A simple stack that takes input from the user and stores it into the stack.
 
 - the end of program will also call the print function to display all data stored in the stack
 
-- <em>simple_stack.exe</em> to try it out
+- _simple_stack.exe_ to try it out
 
-- running this executable on linux machines: download Wine, download the simple_stack.exe, open the terminal on the .exe location and run $ wine simple_stack.exe

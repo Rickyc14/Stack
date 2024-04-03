@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 
 stack * create_stack(){
     stack * s = malloc(sizeof * s);
