@@ -21,5 +21,3 @@ A simple stack that takes input from the user and stores it into the stack.
 
 - the end of program will also call the print function to display all data stored in the stack
 
-- _simple_stack.exe_ to try it out
-
